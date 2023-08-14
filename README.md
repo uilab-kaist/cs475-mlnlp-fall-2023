@@ -25,7 +25,8 @@ This course will cover advanced and state-of-the-art machine learning for text d
 - Conduct replication studies based on a recent NLP+ML paper
 - Communicate in written and spoken English about NLP+ML research
 
-## Time
+## Time and Classroom
+- E3-1 2443
 - Tue/Thurs 10:30 - 12:00
 
 ## Course Addition
@@ -50,33 +51,33 @@ All the deadlines are 23:59 unless specified.
 
 | Week | Date       | Topic                                 | Notes                    | Homework             |
 |------|------------|---------------------------------------|--------------------------|----------------------|
-|    1 | 2022.08.29 | Introduction to CS475                 |                          |                      |
-|    1 | 2022.08.31 | Introduction to NLP                   |                          |                      |
-|    2 | 2022.09.05 | Language Models                       | Ch 3 of SLP book         |                      |
-|    2 | 2022.09.07 | Language Models & Word Vectors        | Ch 6 of SLP book         | HW 1 Out             |
-|    3 | 2022.09.12 | Holiday                               | No Class                 |                      |
-|    3 | 2022.09.14 | Word Vectors                          | Deadline to Submit Teams | HW 1 Due             |
-|    4 | 2022.09.19 | Text Classification                   |                          | HW 2 Out             |
-|    4 | 2022.09.21 | Text Classification                   |                          |                      |
-|    5 | 2022.09.26 | Project Proposal                      |                          | HW 2 Due             |
-|    5 | 2022.09.28 | Project Proposal                      |                          |                      |
-|    6 | 2022.10.03 | Holiday                               | No Class                 |                      |
-|    6 | 2022.10.05 | Wrap-up NN and RNN                    |                          | HW 3 Out             |
-|    7 | 2022.10.10 | Holiday                               | No Class                 |                      |
-|    7 | 2022.10.12 | Transformers and BERT                 |                          | HW 3 Due             |
-|    8 | 2022.10.17 | Midterm                               | No Class                 |                      |
-|    8 | 2022.10.19 | Midterm                               | No Class                 |                      |
-|    9 | 2022.10.24 | Datasets and Evaluation               |                          | HW 4 Out             |
-|    9 | 2022.10.26 | Ethics and Social Impact of NLP       |                          |                      |
-|   10 | 2022.10.31 | Sentiment & Emotions                  |                          | HW 4 Due             |
-|   10 | 2022.11.02 | Question Answering                    |                          |                      |
-|   11 | 2022.11.07 | Project Progress                      | Record & Upload          |                      |
-|   11 | 2022.11.09 | Project Progress                      | Record & Upload          |                      |
-|   12 | 2022.11.14 | Machine Translation & Multilinguality |                          |                      |
-|   12 | 2022.11.16 | Generative Models                     |                          |                      |
-|   13 | 2022.11.21 | Dialogue Models                       |                          |                      |
-|   13 | 2022.11.23 | Multimodal Models                     |                          |                      |
-|   14 | 2022.11.28 | Wrap-up                               | Recorded Class           |                      |
+|    1 | 2023.08.29 | Introduction to CS475                 |                          |                      |
+|    1 | 2023.08.31 | Introduction to NLP                   |                          |                      |
+|    2 | 2023.09.05 | Language Models                       | Ch 3 of SLP book         |                      |
+|    2 | 2023.09.07 | Language Models & Word Vectors        | Ch 6 of SLP book         | HW 1 Out             |
+|    3 | 2023.09.12 | Word Vectors                               |                  |                      |
+|    3 | 2023.09.14 | Text Classification                          | Deadline to Submit Teams | HW 1 Due             |
+|    4 | 2023.09.19 | Neural Networks                   |                          | HW 2 Out             |
+|    4 | 2023.09.21 | Project Proposal                   |                          |                      |
+|    5 | 2023.09.26 | Project Proposal                      |                          | HW 2 Due             |
+|    5 | 2023.09.28 | Holiday                      |      No Class                    |                      |
+|    6 | 2023.10.03 | Holiday                               | No Class                 |                      |
+|    6 | 2023.10.05 | Wrap-up NN and RNN                    |                          | HW 3 Out             |
+|    7 | 2023.10.10 | Transformers and BERT, GPT                               | No Class                 |                      |
+|    7 | 2023.10.12 | Guest Lecture                 |                          | HW 3 Due             |
+|    8 | 2023.10.17 | Midterm                               | No Class                 |                      |
+|    8 | 2023.10.19 | Midterm                               | No Class                 |                      |
+|    9 | 2023.10.24 | Datasets and Evaluation               |                          | HW 4 Out             |
+|    9 | 2023.10.26 | Ethics and Social Impact of NLP       |                          |                      |
+|   10 | 2023.10.31 | Sentiment & Emotions                  |                          | HW 4 Due             |
+|   10 | 2023.11.02 | Question Answering                    |                          |                      |
+|   11 | 2023.11.07 | Project Progress                      | Record & Upload          |                      |
+|   11 | 2023.11.09 | Project Progress                      | Record & Upload          |                      |
+|   12 | 2023.11.14 | Machine Translation & Multilinguality |                          |                      |
+|   12 | 2023.11.16 | Generative Models                     |                          |                      |
+|   13 | 2023.11.21 | Generative Models & Applications                      |                          |                      |
+|   13 | 2023.11.23 | Generative Models & Society                   |                          |                      |
+|   14 | 2023.11.28 | Wrap-up                               | Recorded Class           |                      |
 |   14 | 2022.11.30 | Undergraduate Admissions              | No Class                 |                      |
 |   15 | 2022.12.05 | Final Presentation                    | Record & Upload          |                      |
 |   15 | 2022.12.07 | Final Presentation                    | Record & Upload          |                      |
