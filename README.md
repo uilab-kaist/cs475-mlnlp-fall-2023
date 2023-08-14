@@ -78,11 +78,11 @@ All the deadlines are 23:59 unless specified.
 |   13 | 2023.11.21 | Generative Models & Applications                      |                          |                      |
 |   13 | 2023.11.23 | Generative Models & Society                   |                          |                      |
 |   14 | 2023.11.28 | Wrap-up                               | Recorded Class           |                      |
-|   14 | 2022.11.30 | Undergraduate Admissions              | No Class                 |                      |
-|   15 | 2022.12.05 | Final Presentation                    | Record & Upload          |                      |
-|   15 | 2022.12.07 | Final Presentation                    | Record & Upload          |                      |
-|   16 | 2022.12.12 | Final Exam (Final Report Due)         | No Class                 |                      |
-|   16 | 2022.12.14 | Final Exam                            | No Class                 |                      |
+|   14 | 2023.11.30 | Undergraduate Admissions              | No Class                 |                      |
+|   15 | 2023.12.05 | Final Presentation                    | Record & Upload          |                      |
+|   15 | 2023.12.07 | Final Presentation                    | Record & Upload          |                      |
+|   16 | 2023.12.12 | Final Exam (Final Report Due)         | No Class                 |                      |
+|   16 | 2023.12.14 | Final Exam                            | No Class                 |                      |
 
 ## Homeworks (Subject to Change)
 1. N-gram Bag-of-Words
