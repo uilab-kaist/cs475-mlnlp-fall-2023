@@ -9,7 +9,7 @@ Alice Oh (Professor), Haneul Yoo (TA), Jiho Jin (TA), Junho Myung (TA)
 <details>
 <summary><strong>When you send emails, please email to all TAs and prof. Oh. [Click me to see our emails.]</strong></summary>
 
-<p><code>alice.oh@kaist.edu, sjh5665@kaist.ac.kr, rifkiaputri@kaist.ac.kr</code></p>
+<p><code>alice.oh@kaist.edu, haneul.yoo@kaist.ac.kr, jinjh0123@kaist.ac.kr, junho00211@kaist.ac.kr</code></p>
 
 <p><i>And put "CS475" to the title. (e.g., [CS475] Do we have a class on thanksgiving day?)</i></p>
 
@@ -26,7 +26,7 @@ This course will cover advanced and state-of-the-art machine learning for text d
 - Communicate in written and spoken English about NLP+ML research
 
 ## Time
-- Mon/Wed 10:30 - 12:00
+- Tue/Thurs 10:30 - 12:00
 
 ## Course Addition
 We decided not to approve requests for course addition. We ask for your kind understanding regarding this matter.
