@@ -85,17 +85,14 @@ All deadlines are 23:59:59 unless specified.
 |   16 | 2023.12.14 | Final Exam                            | No Class                 |                      |
 
 ## Homework Assignments (Subject to Change)
-1. RNN Family
-2. BERT
-3. Ethics & Social Impact of NLP
+1. RNN Family / BERT
+2. Benchmark and Evaluation
 
 ## Attendance and Participation
 Sometimes (expect about 10 times during the semester), we will have a "quiz" in class. The grade will be 0 or 1, so if you turn in an answer, you will get credit. The format will be different for each class. If you miss up to 2 classes, there will be no penalty. After 2, points will be taken off. Because you can miss up to 2 for free, we will not take any excuses for missing the class (unless you have a special case, such as prolonged sickness, in which case you should email the teaching staff).
 
 ## Team Projects
-
-- You will form teams of *three or four*, and as a team, pick one NLP paper from ACL, EMNLP, NAACL, TACL, NeurIPS, ICML, and ICLR, published in 2021 to 2023, and replicate it. You will be required to change at least one thing -- dataset, model, or research question. More details will be given out during the first week of class.
-- [Link to project description](https://uilab-kaist.github.io/cs475-mlnlp-fall-2022/project)
+- TBA
 
 ## Evaluation
 Your grade will be a combination of the following:
