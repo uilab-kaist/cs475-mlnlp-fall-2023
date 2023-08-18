@@ -54,35 +54,35 @@ All deadlines are 23:59:59 unless specified.
 |    1 | 2023.08.29 | Introduction to CS475                 |                          |                      |
 |    1 | 2023.08.31 | Introduction to NLP                   |                          |                      |
 |    2 | 2023.09.05 | Language Models                       | Ch 3 of SLP book         |                      |
-|    2 | 2023.09.07 | Language Models & Word Vectors        | Ch 6 of SLP book         | HW 1 Out             |
-|    3 | 2023.09.12 | Word Vectors                               |                  |                      |
-|    3 | 2023.09.14 | Text Classification                          | Deadline to Submit Teams | HW 1 Due             |
-|    4 | 2023.09.19 | Neural Networks                   |                          | HW 2 Out             |
-|    4 | 2023.09.21 | Project Proposal                   |                          |                      |
-|    5 | 2023.09.26 | Project Proposal                      |                          | HW 2 Due             |
-|    5 | 2023.09.28 | Holiday                      |      No Class                    |                      |
+|    2 | 2023.09.07 | Language Models & Word Vectors        | Ch 6 of SLP book         |                      |
+|    3 | 2023.09.12 | Word Vectors                          |                          |                      |
+|    3 | 2023.09.14 | Text Classification                   | Deadline to Submit Teams |                      |
+|    4 | 2023.09.19 | Neural Networks                       | Online                   |                      |
+|    4 | 2023.09.21 | Wrap-up NN and RNN                    |                          | HW 1 Out             |
+|    5 | 2023.09.26 | Transformers and BERT, GPT            | Online                   |                      |
+|    5 | 2023.09.28 | Holiday                               | No Class                 |                      |
 |    6 | 2023.10.03 | Holiday                               | No Class                 |                      |
-|    6 | 2023.10.05 | Wrap-up NN and RNN                    |                          | HW 3 Out             |
-|    7 | 2023.10.10 | Transformers and BERT, GPT                               | No Class                 |                      |
-|    7 | 2023.10.12 | Guest Lecture                 |                          | HW 3 Due             |
-|    8 | 2023.10.17 | Midterm                               | No Class                 |                      |
+|    6 | 2023.10.05 | Datasets and Evaluation               |                          | HW 1 Due             |
+|    7 | 2023.10.10 | Project Proposal                      |                          |                      |
+|    7 | 2023.10.12 | Project Proposal                      |                          |                      |
+|    8 | 2023.10.17 | Midterm                               | No Class                 | HW 2 Out             |
 |    8 | 2023.10.19 | Midterm                               | No Class                 |                      |
-|    9 | 2023.10.24 | Datasets and Evaluation               |                          | HW 4 Out             |
-|    9 | 2023.10.26 | Ethics and Social Impact of NLP       |                          |                      |
-|   10 | 2023.10.31 | Sentiment & Emotions                  |                          | HW 4 Due             |
-|   10 | 2023.11.02 | Question Answering                    |                          |                      |
-|   11 | 2023.11.07 | Project Progress                      | Record & Upload          |                      |
-|   11 | 2023.11.09 | Project Progress                      | Record & Upload          |                      |
-|   12 | 2023.11.14 | Machine Translation & Multilinguality |                          |                      |
+|    9 | 2023.10.24 | Question Answering                    |                          |                      |
+|    9 | 2023.10.26 | Sentiment & Emotions                  |                          |                      |
+|   10 | 2023.10.31 | Machine Translation & Multilinguality |                          |                      |
+|   10 | 2023.11.02 | Ethics and Social Impact of NLP       |                          | HW 2 Due             |
+|   11 | 2023.11.07 | Project Progress                      | Upload recorded video    |                      |
+|   11 | 2023.11.09 | Project Progress                      | Upload recorded video    |                      |
+|   12 | 2023.11.14 | Guest Lecture                         | TBD                      |                      |
 |   12 | 2023.11.16 | Generative Models                     |                          |                      |
-|   13 | 2023.11.21 | Generative Models & Applications                      |                          |                      |
-|   13 | 2023.11.23 | Generative Models & Society                   |                          |                      |
-|   14 | 2023.11.28 | Wrap-up                               | Recorded Class           |                      |
+|   13 | 2023.11.21 | Generative Models & Applications      |                          |                      |
+|   13 | 2023.11.23 | Generative Models & Society           |                          |                      |
+|   14 | 2023.11.28 | Wrap-up                               |                          |                      |
 |   14 | 2023.11.30 | Undergraduate Admissions              | No Class                 |                      |
-|   15 | 2023.12.05 | Final Presentation                    | Record & Upload          |                      |
-|   15 | 2023.12.07 | Final Presentation                    | Record & Upload          |                      |
-|   16 | 2023.12.12 | Final Exam (Final Report Due)         | No Class                 |                      |
-|   16 | 2023.12.14 | Final Exam                            | No Class                 |                      |
+|   15 | 2023.12.05 | Final Presentation                    |                          |                      |
+|   15 | 2023.12.07 | Final Presentation                    |                          |                      |
+|   16 | 2023.12.12 | Final Exam                            | No Class                 |                      |
+|   16 | 2023.12.14 | Final Exam (Final Report Due)         | No Class                 |                      |
 
 ## Homework Assignments (Subject to Change)
 1. RNN Family / BERT
