@@ -4,12 +4,12 @@
 
 ## Teaching Staff
 
-Alice Oh (Professor), Haneul Yoo (TA), Jiho Jin (TA), Junho Myung (TA)
+Alice Oh (Professor), Haneul Yoo (TA), Jiho Jin (TA)
 
 <details>
 <summary><strong>When you send emails, please email to all TAs and prof. Oh. [Click me to see our emails.]</strong></summary>
 
-<p><code>alice.oh@kaist.edu, haneul.yoo@kaist.ac.kr, jinjh0123@kaist.ac.kr, junho00211@kaist.ac.kr</code></p>
+<p><code>alice.oh@kaist.edu, haneul.yoo@kaist.ac.kr, jinjh0123@kaist.ac.kr</code></p>
 
 <p><i>And put "CS475" to the title. (e.g., [CS475] Do we have a class on thanksgiving day?)</i></p>
 
