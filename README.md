@@ -97,15 +97,19 @@ Sometimes (expect about 10 times during the semester), we will have a "quiz" in 
 ## Evaluation
 Your grade will be a combination of the following:
 
-- Homework 20%
-- Attendance/Quiz & Participation 20%
+- Homework 30%
+  - HW 1 15%
+  - HW 2 15%
+- Attendance/Quiz 20%
 - Team Project 50% 
   - Proposal 5%
-  - Paper (replication) presentation 10%
-  - Final presentation 20%
+  - Progress presentation 10%
+  - Final presentation 10%
   - Written report 10%
   - Teamwork 5% (Note that any team may get up to -25% if there is a serious problem with teamwork)
-- Peer Review Participation 10%
+  - Peer Review Participation 10%
+- Extra Credit
+  - Recent Issues in AI (TBA)
   
 ## LLM Policy
 We allow and encourage students to use AI-based tools, including large language models, but we require that students list the tools used and describe in detail how the tools are used. A more specific explanation of the policy will be given in class. Anyone not following this policy will be penalized, up to and including an F in the class.
