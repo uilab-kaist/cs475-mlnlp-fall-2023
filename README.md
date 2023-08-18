@@ -30,7 +30,7 @@ This course will cover advanced and state-of-the-art machine learning for text d
 - Tue/Thurs 10:30 - 11:45 
 
 ## Course Addition
-We decided not to approve requests for course addition. We ask for your kind understanding regarding this matter.
+- We decided not to approve requests for course addition. We ask for your kind understanding regarding this matter.
 
 ## Prerequisites  
 
@@ -89,7 +89,7 @@ All deadlines are 23:59:59 unless specified.
 2. Benchmark and Evaluation
 
 ## Attendance and Participation
-Sometimes (expect about 10 times during the semester), we will have a "quiz" in class. The grade will be 0 or 1, so if you turn in an answer, you will get credit. The format will be different for each class. If you miss up to 2 classes, there will be no penalty. After 2, points will be taken off. Because you can miss up to 2 for free, we will not take any excuses for missing the class (unless you have a special case, such as prolonged sickness, in which case you should email the teaching staff).
+- Sometimes (expect about 10 times during the semester), we will have a "quiz" in class. The grade will be 0 or 1, so if you turn in an answer, you will get credit. The format will be different for each class. If you miss up to 2 classes, there will be no penalty. After 2, points will be taken off. Because you can miss up to 2 for free, we will not take any excuses for missing the class (unless you have a special case, such as prolonged sickness, in which case you should email the teaching staff).
 
 ## Team Projects
 - You will form teams of *three or four*, and as a team, pick one paper from the given paper list (TBA) and replicate it. You will be required to change at least one thing -- dataset, model, or research question. More details will be given out during the first week of class.
@@ -112,7 +112,7 @@ Your grade will be a combination of the following:
   - Recent Issues in AI (TBA)
   
 ## LLM Policy
-We allow and encourage students to use AI-based tools, including large language models, but we require that students list the tools used and describe in detail how the tools are used. A more specific explanation of the policy will be given in class. Anyone not following this policy will be penalized, up to and including an F in the class.
+- We allow and encourage students to use AI-based tools, including large language models, but we require that students list the tools used and describe in detail how the tools are used. A more specific explanation of the policy will be given in class. Anyone not following this policy will be penalized, up to and including an F in the class.
 
 ## Late Policy
-Unless otherwise specified, we will not accept late homework assignments, quizzes, peer evaluations, or project submissions. For exceptional individual circumstances, please contact the teaching staff.
+- Unless otherwise specified, we will not accept late homework assignments, quizzes, peer evaluations, or project submissions. For exceptional individual circumstances, please contact the teaching staff.
