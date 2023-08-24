@@ -4,7 +4,7 @@
 
 ## Teaching Staff
 
-Alice Oh (Professor), Haneul Yoo (TA), Jiho Jin (TA)
+<a href="https://uilab.kr/">Alice Oh</a> (Professor), Haneul Yoo (TA), Jiho Jin (TA)
 
 <details>
 <summary><strong>When you send emails, please email to all TAs and prof. Oh. [Click me to see our emails.]</strong></summary>
