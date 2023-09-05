@@ -15,6 +15,10 @@
 
 </details>
 
+## Useful Links
+- [Slack Invitation](https://join.slack.com/t/cs475-mlnlp-fall-2023/shared_invite/zt-21n598pxc-oYKqlWBhdOn7uPLCEsiz0A)
+- [Google Drive](https://drive.google.com/drive/folders/1BgsBoR65QniH7RIW5zlioNC_QLmUpnxT?usp=sharing)
+
 ## Course Description
 
 This course will cover advanced and state-of-the-art machine learning for text data. ML methods covered will include graphical models, Bayesian inference, nonparametric models, and deep learning. By the end of the course, students will be able to
