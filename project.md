@@ -15,7 +15,7 @@
 
 
 ## Goal
-This project aims to replicate an existing paper on NLP fields in machine learning, and then make meaningful improvements/extensions in terms of research questions, machine learning models, features, datasets, or evaluation metrics.
+This project aims to replicate an existing paper on NLP fields in machine learning and then make meaningful improvements/extensions in terms of research questions, machine learning models, features, datasets, or evaluation metrics.
 
 
 ## Teams
@@ -31,7 +31,7 @@ This is a team-based project. Please form teams of 4 people per group.
   - **Teamwork report**: 5%
   - **Peer review participation**: 10%
 
-**Note that any team may get up to -25%p for project scores if there is a serious problem with teamwork.** That means, the project grade could be 25/50, even if all presentation and report scores are perfect. This can apply to an individual student, or to the entire team.
+**Note that any team may get up to -25%p for project scores if there is a serious problem with teamwork.** That means that the project grade could be 25/50, even if all presentation and report scores are perfect. This can apply to an individual student or to the entire team.
 
 
 ## Deliverables
@@ -46,9 +46,9 @@ This is a team-based project. Please form teams of 4 people per group.
 
 ## Instruction
 **Choose a paper with the following criteria.** 
-- Please refer to the [paper list]() and pick a paper.
+- Please refer to the [paper list]() and pick a paper. It's first-come-first-served based.
 - Otherwise, you can choose your own paper.
-  - Recent paper published in 2020 to 2023
+  - Recent paper published from 2020 to 2023
   - Technical paper that includes a machine learning model and a medium- to large-sized dataset
   - NLP paper from ACL, EMNLP, NAACL, TACL, NeurIPS, ICML, and ICLR
 - If your paper deviates from the above criteria, or if your project is not based on a replication of a previous paper, please email the teaching staff.
