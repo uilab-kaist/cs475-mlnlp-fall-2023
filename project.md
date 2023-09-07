@@ -19,7 +19,7 @@ This project aims to replicate an existing paper on NLP fields in machine learni
 
 
 ## Teams
-This is a team-based project. Please form teams of 4 people per group.
+This is a team-based project. Please form teams of three or four people per group.
 
 
 ## Project Grading (50% of Course Grade)
