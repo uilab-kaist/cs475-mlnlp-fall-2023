@@ -62,7 +62,7 @@ All deadlines are 23:59:59 unless specified.
 |    3 | 2023.09.12 | Word Vectors                          |                          |                      |
 |    3 | 2023.09.14 | Text Classification                   | Deadline to Submit Teams |                      |
 |    4 | 2023.09.19 | Neural Networks                       | Online                   |                      |
-|    4 | 2023.09.21 | Wrap-up NN and RNN                    |                          | HW 1 Out             |
+|    4 | 2023.09.21 | Wrap-up NN and RNN                    | Online                   | HW 1 Out             |
 |    5 | 2023.09.26 | Transformers and BERT, GPT            | Online                   |                      |
 |    5 | 2023.09.28 | Holiday                               | No Class                 |                      |
 |    6 | 2023.10.03 | Holiday                               | No Class                 |                      |
