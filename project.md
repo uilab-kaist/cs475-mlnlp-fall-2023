@@ -46,7 +46,7 @@ This is a team-based project. Please form teams of three or four people per grou
 
 ## Instruction
 **Choose a paper with the following criteria.** 
-- Please refer to the [paper list]() and pick a paper. It's first-come-first-served based.
+- Please refer to the [paper list](https://docs.google.com/spreadsheets/d/1fGJFAD7pBN-Dcqj_kOL4s5rib5un_LEPbC4OL0f3hPA/edit?usp=sharing) and pick a paper. It's first-come-first-served based.
 - Otherwise, you can choose your own paper.
   - Recent paper published from 2020 to 2023
   - Technical paper that includes a machine learning model and a medium- to large-sized dataset
