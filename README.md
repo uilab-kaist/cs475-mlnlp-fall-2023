@@ -75,9 +75,9 @@ All deadlines are 23:59:59 unless specified.
 |    9 | 2023.10.26 | Sentiment & Emotions                  |                          |                      |
 |   10 | 2023.10.31 | Machine Translation & Multilinguality |                          |                      |
 |   10 | 2023.11.02 | Ethics and Social Impact of NLP       |                          |                      |
-|   11 | 2023.11.07 | Guest Lecture                         | Upload recorded video    |                      |
+|   11 | 2023.11.07 | Guest Lecture                         | [Dr. Jung-Woo Ha](https://aidljwha.wordpress.com/) |                      |
 |   11 | 2023.11.09 | Project Progress                      | Upload recorded video    |                      |
-|   12 | 2023.11.14 | Generative Models                     | [Dr. Jung-Woo Ha](https://aidljwha.wordpress.com/) |                      |
+|   12 | 2023.11.14 | Generative Models                     |                          |                      |
 |   12 | 2023.11.16 | Generative Models & Applications      |                          |  HW 2 Due            |
 |   13 | 2023.11.21 | Generative Models & Society           |                          |                      |
 |   13 | 2023.11.23 | Wrap-up                               |                          |                      |
