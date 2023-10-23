@@ -69,18 +69,18 @@ All deadlines are 23:59:59 unless specified.
 |    6 | 2023.10.05 | Datasets and Evaluation               |                          | HW 1 Due             |
 |    7 | 2023.10.10 | Project Proposal                      |                          |                      |
 |    7 | 2023.10.12 | Project Proposal                      |                          |                      |
-|    8 | 2023.10.17 | Midterm                               | No Class                 | HW 2 Out             |
+|    8 | 2023.10.17 | Midterm                               | No Class                 |                      |
 |    8 | 2023.10.19 | Midterm                               | No Class                 |                      |
-|    9 | 2023.10.24 | Question Answering                    |                          |                      |
+|    9 | 2023.10.24 | Question Answering                    |                          |  HW 2 Out            |
 |    9 | 2023.10.26 | Sentiment & Emotions                  |                          |                      |
 |   10 | 2023.10.31 | Machine Translation & Multilinguality |                          |                      |
-|   10 | 2023.11.02 | Ethics and Social Impact of NLP       |                          | HW 2 Due             |
-|   11 | 2023.11.07 | Project Progress                      | Upload recorded video    |                      |
+|   10 | 2023.11.02 | Ethics and Social Impact of NLP       |                          |                      |
+|   11 | 2023.11.07 | Guest Lecture                         | Upload recorded video    |                      |
 |   11 | 2023.11.09 | Project Progress                      | Upload recorded video    |                      |
-|   12 | 2023.11.14 | Guest Lecture                         | TBD                      |                      |
-|   12 | 2023.11.16 | Generative Models                     |                          |                      |
-|   13 | 2023.11.21 | Generative Models & Applications      |                          |                      |
-|   13 | 2023.11.23 | Generative Models & Society           |                          |                      |
+|   12 | 2023.11.14 | Generative Models                     | [Dr. Jung-Woo Ha](https://aidljwha.wordpress.com/) |                      |
+|   12 | 2023.11.16 | Generative Models & Applications      |                          |  HW 2 Due            |
+|   13 | 2023.11.21 | Generative Models & Society           |                          |                      |
+|   13 | 2023.11.23 | Wrap-up                               |                          |                      |
 |   14 | 2023.11.28 | Wrap-up                               |                          |                      |
 |   14 | 2023.11.30 | Undergraduate Admissions              | No Class                 |                      |
 |   15 | 2023.12.05 | Final Presentation                    |                          |                      |
