@@ -9,7 +9,7 @@
 - Week  3 (Sep 14) **Submit teams**
 - Week  6 (Oct 05): **Paper selection**
 - Week  7 (Oct 10, Oct 12): **Project proposal, Peer grading**
-- Week 11 (Nov 07, Nov 09): **Replication presentation, Peer grading**
+- Week 11 (Nov 09): **Replication presentation, Peer grading**
 - Week 15 (Dec 05, Dec 07): **Final presentation, Peer grading**
 - Week 16 (Dec 14): **Final report, Teamwork report**
 
