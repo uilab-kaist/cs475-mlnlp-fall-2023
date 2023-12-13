@@ -86,7 +86,8 @@ All deadlines are 23:59:59 unless specified.
 |   15 | 2023.12.05 | Final Presentation                    |                          |                      |
 |   15 | 2023.12.07 | Final Presentation                    |                          |                      |
 |   16 | 2023.12.12 | Final Exam                            | No Class                 |                      |
-|   16 | 2023.12.14 | Final Exam (Final Report Due)         | No Class                 |                      |
+|   16 | 2023.12.14 | Final Exam                            | No Class                 |                      |
+|   16 | 2023.12.17 | Project Final Report                  |                          |                      |
 
 ## Homework Assignments (Subject to Change)
 1. RNN Family / BERT
