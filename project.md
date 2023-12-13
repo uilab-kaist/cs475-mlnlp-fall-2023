@@ -11,7 +11,7 @@
 - Week  7 (Oct 10, Oct 12): **Project proposal, Peer grading**
 - Week 11 (Nov 09): **Replication presentation, Peer grading**
 - Week 15 (Dec 05, Dec 07): **Final presentation, Peer grading**
-- Week 16 (Dec 14): **Final report, Teamwork report**
+- Week 16 (Dec 17 23:59): **Final report, Teamwork report**
 
 
 ## Goal
